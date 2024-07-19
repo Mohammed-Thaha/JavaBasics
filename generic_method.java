@@ -13,7 +13,7 @@ public class generic_method {
        arr[1]=sc.nextLine();
        System.out.print("Before swap x and y "+arr[0]+" "+arr[1]+"\n");
        arr=swap(arr);
-       System.out.print("Before swap x and y "+arr[0]+" "+arr[1]);
+       System.out.print("Before swap x and y "+arr[0]+" "+arr[1]+"\n");
        sc.close();
     }
 }
